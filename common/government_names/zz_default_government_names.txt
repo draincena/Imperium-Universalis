@@ -159,7 +159,7 @@ default_oligarchy = {
 		2 = OLIGARCHY
 		3 = OLIGARCHY
 		4 = GREAT_OLIGARCHY
-		4 = EMPIRE
+		5 = EMPIRE
 	}
 	
 	ruler_male = {
